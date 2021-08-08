@@ -167,7 +167,7 @@ export default {
 
           if(sortedPotatoes == tempPotatoes){
             let score = this.end();
-            alert("Score : "+ score);
+            alert("Sorted Successfully!\n Score : "+ score);
           }
           else{
             // console.log("Not Sorted");
