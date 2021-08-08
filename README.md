@@ -1,5 +1,10 @@
 # sorting_training_system
 
+## Demo:
+```
+http://sorting.training.system.s3-website.us-east-2.amazonaws.com/
+```
+
 ## Project setup
 ```
 npm install
